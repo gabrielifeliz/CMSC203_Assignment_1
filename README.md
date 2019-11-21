@@ -5,6 +5,5 @@ Topics:
 - Variables
 - Console Input/Output
 - Constants
-- Conditions (```if```-```else```)
 
 Date of Completion: 09/17/2018
