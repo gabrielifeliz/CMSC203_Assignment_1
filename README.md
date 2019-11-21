@@ -1,4 +1,4 @@
-# Project 1 - CMSC 203
+# Assignment 1 - CMSC 203
 ## Wind Chill Temperature
 
 Topics:
